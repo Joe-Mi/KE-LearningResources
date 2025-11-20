@@ -1,0 +1,24 @@
+{
+  "name": "Walimu_App",
+  "version": "1.0.0",
+  "description": "A Vue.js application for Walimu.",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@vue-pdf-viewer/viewer": "^3.1.1",
+    "pdf-lib": "^1.17.1",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.0.0",
+    "vite": "^2.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "port": 5173
+}
